@@ -75,5 +75,5 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
   
 ## **Known Issues**
 - Weapon and armor balance will need more work, your feedback is welcome!  Any number can be edited easily
-- DLC weapon and armor replacer need more work, for the first release I have focused on vanilla contents  
-- Given the huge change to the entire leveled lists, if you notice bugs or crashes, please let me know on Discord
+- DLC weapon and armor replacer need more work, for the first release I focused on vanilla contents  
+- Given the huge change to the entire leveled list, if you notice bugs or crashes, please let me know on Discord and I will patch it
