@@ -5,6 +5,8 @@ Nexus Download: https://www.nexusmods.com/skyrimspecialedition/mods/83995
 Best way to show your appreciation is to endorse on Nexus and post images/videos of this mod list on Reddit/Youtube.  
 
 This modlist is designed for 3070 and up.  I was playing on 11700 + 3070 until I upgraded to 3090, Virtual Desktop High (1.35x native Quest 2 resolution which shines with FSR upscaling), 45 FPS reprojected to 90.  For all crash issues, drop crash<dateTime stamp>.log from My Documents\Fallout4VR\F4SE in chat.  All other issues, please specify GPU and headset.
+  
+DLC from regular Fallout 4 is required.  There are just too many mods that require it.
 
 - [Installation](#installation)
 - [Starting The Game](#starting-the-game)
@@ -71,5 +73,6 @@ This modlist is designed for 3070 and up.  I was playing on 11700 + 3070 until I
 - Click back arrow from plugins tab to sort the plugins correctly
   
 ## **Known Issues**
-- Weapon and armor balance will need more work, your feedback is welcome!  A number can be edited easily
+- Weapon and armor balance will need more work, your feedback is welcome!  Any number can be edited easily
+- DLC weapon and armor replacer need more work, for the first release I have focused on vanilla contents  
 - Given the huge change to the entire leveled lists, if you notice bugs or crashes, please let me know on Discord
