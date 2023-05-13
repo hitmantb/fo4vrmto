@@ -9,10 +9,12 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 - [Installation](#installation)
 - [Starting The Game](#starting-the-game)
 - [Visuals and Performance](#visuals-and-performance)
+- [Gameplay Notes](#gameplay-notes)
 - [Updating to New Version](#updating-to-new-version)
 - [Add New Mods](#add-new-mods)
-- [Changing Weather ENB](#changing-weather)
-
+- [Changing Weather](#changing-weather)
+- [Known Issues](#known-issues)
+  
 ## **Installation**
 
 - (Optional) Clean install of Fallout 4: https://www.youtube.com/watch?v=zwTJ3jImCiQ
@@ -43,6 +45,13 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 - If you need more FPS, enable FSR performance instead of quality in MO2 mods
 - Running out of VRAM is the easiest way to make the game unplayable.  On 8GB cards, consider download and replace the textures with Luxor 2K if you experience stuttering in cities: https://www.nexusmods.com/fallout4/mods/65720 
 
+## **Gameplay Notes**
+
+- This is the modern tactical edition, standing in the open for a few seconds means you are dead against a couple of raider's with AK's on higher difficulties.  Time to kill is fast on both sides.  You can lower the difficulty any time, cheat terminal is also included to quickly try out new guns
+- Weapons are randomly distributed on both sides, for the element of surprise.  Higher character levels will provide
+- Character builds, especially with legendary crafting thanks to ECO, is deep and satisfying.  You can still build a very powerful character, but the enemy will always be able to kill you quickly on higher difficulties
+- Highly recommend you enable SKK Stalker halo tape!  It is the best random enemy spawner and really keeps you on your toes
+  
 ## **Updating to New Version**
 
 - With the exception of major version upgrades like 2.0, I will never break a save intentionally
@@ -60,3 +69,7 @@ This modlist is designed for 3070 and up.  I am playing on 11700 + 3070, Virtual
 - Go indoor and make a save, exit game
 - Turn off current weather (NAC X) in MO2 mods, enable new weather (Vivid and True Storms)
 - Click back arrow from plugins tab to sort the plugins correctly
+  
+## **Known Issues**
+- Weapon and armor balance will need more work, your feedback is welcome!  A number can be edited easily
+- Given the huge change to the entire leveled lists, if you notice bugs or crashes, please let me know on Discord
