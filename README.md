@@ -1,6 +1,6 @@
 Fallout 4 VR Modern Tactical Overhaul
 
-Nexus Download: https://www.nexusmods.com/skyrimspecialedition/mods/83995
+Nexus Download: https://www.nexusmods.com/fallout4/mods/71281
 
 Best way to show your appreciation is to endorse on Nexus and post images/videos of this mod list on Reddit/Youtube.  
 
