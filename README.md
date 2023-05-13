@@ -19,8 +19,8 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
   
 ## **Installation**
 
+- (Mandatory!) Copy DLC from Fallout 4 To Fallout 4VR.  In /data/ folder copy all 32 files that start with DLC
 - (Optional) Clean install of Fallout 4: https://www.youtube.com/watch?v=zwTJ3jImCiQ
-- (Mandatory!) Copy DLC from Fallout 4 To Fallout 4VR.  In /data/ folder copy all 32 files that start with DLC.
 - Download the zip file from Nexus, extract into .wabbajack file
 - Download and run Wabbajack program itself from https://www.wabbajack.org/ and choose the install from disk option, install to a root folder not shared by Fallout 4 VR, as MO2 needs full lock to the entire directory
 - Antivirus will occasionally flag Wabbajack files or even textures from Nexus, it is safe to ignore, please see Wabbajack Discord for this well known issue.  You may need to whitelist the directory it installs to as well as the downloads
@@ -32,7 +32,7 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 
 - Once installation is complete, open MO2 from the installed folder and run "Play Game (F4SEVR)" from upper right corner, everything is already included and ready to go out of box
 - When starting new game, stand still wait for all the workshop framework to run and finish after you create character, you will be teleported into the game automatically once it is done
-- FRIK crashes the game when you create new characters (unless you already loaded a save in the current session which initiates its skeleton) is disabled on start up.  Once you create a character you can enable the mod and plugin sections, it is the last mod and plugin on each side of MO2.  Use FRIK holo tape in environment to calibrate your height and you can move your view forward if you have hair/armor in your view, or enable headless mode although it will lower your difficulties as it reduces your hit box   
+- FRIK crashes the game when you create new characters (unless you already loaded a save in the current session which initiates its skeleton), so it is disabled on start up.  Once you create a character you can enable the mod and plugin sections, it is the last mod and plugin on each side of MO2.  Use FRIK holo tape in inventory to calibrate your height and you can move your view forward if you have hair/armor in your view, or enable headless mode although it will lower your difficulties as it reduces your hit box   
 - Other mods/plugins are disabled for a reason, do not mass enable all, if you did, restore mod order with back arrow on mod tab.  Do not sort plugins with LOOT, restore plugin order with back arrow on plugin tab if you messed it up  
 - Always start the game with Play Game (F4SEVR) in MO2, do not open Steam VR ahead of the time.  If MO2 gets stuck before opening Steam VR, close MO2 and end all VR Server related processes in task manager
 - Set Steam resolution based on your headset resolution and GPU.  On Quest 2 and 3070 for example, I use Virtual Desktop high (equivalent of 135% Steam resolution) and leave Steam itself to 100%, using FSR balanced  
