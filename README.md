@@ -49,9 +49,10 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 
 ## **Gameplay Notes**
 
-- This is the modern tactical edition, standing in the open for a few seconds means you are dead against a couple of raider's with AK's on higher difficulties.  Time to kill is fast on both sides.  You can lower the difficulty any time, cheat terminal is also included to quickly try out new guns
-- Weapons are randomly distributed on both sides, for the element of surprise.  Higher character levels will provide
-- Character builds, especially with legendary crafting thanks to ECO, is deep and satisfying.  You can still build a very powerful character, but the enemy will always be able to kill you quickly on higher difficulties
+- This is the modern tactical edition, standing in the open for a few seconds means you are dead against a couple of raider's with AK's on higher difficulties.  Time to kill is fast on both sides.  Every single weapon you can use, the enemy has them too  
+- You can lower the difficulty any time, cheat terminal is also included to quickly try out new guns, SKK respec is included to try new builds
+- Weapons are randomly distributed on both sides for the element of surprise.  Higher character levels will provide more variety, more modern weapons, think from MP5 to MP9, or AK47 to AN94
+- Character builds, especially with legendary crafting thanks to ECO, is deep and satisfying.  You can still build a very powerful character, but the enemy will always be able to kill you quickly on higher difficulties because being able to take 4 bullets instead of 2, is not the same as being able to take 4 fireballs instead of 2 in Skyrim
 - Highly recommend you enable SKK Stalker halo tape!  It is the best random enemy spawner and really keeps you on your toes
   
 ## **Updating to New Version**
