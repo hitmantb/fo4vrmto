@@ -26,7 +26,7 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 - Antivirus will occasionally flag Wabbajack files or even textures from Nexus, it is safe to ignore, please see Wabbajack Discord for this well known issue.  You may need to whitelist the directory it installs to as well as the downloads
 - You do not EVER need to delete and install a Wabbajack list from scratch, it is a 100% file sync
 - Typical download errors are caused by Nexus server issues.  Quit Wabbajack, restart, overwrite to resume and you won't lose any progress
-- If the error is about a file that should be part of standard Skyrim installation, set the game to English, do a Steam file validation
+- If the error is about a file that should be part of standard Fallout 4 VR installation, set the game to English, do a Steam file validation
 
 ## **Starting The Game**
 
