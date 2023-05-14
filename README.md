@@ -32,19 +32,20 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 
 - Once installation is complete, open MO2 from the installed folder and run "Play Game (F4SEVR)" from upper right corner, everything is already included and ready to go out of box
 - When starting new game, stand still wait for all the workshop framework to run and finish after you create character, you will be teleported into the game automatically once it is done
-- FRIK crashes the game when you create new characters so it is disabled on start up.  Once you create a character you can enable the mod and plugin sections, it is the last mod and plugin on each side of MO2.  Use FRIK holo tape in inventory to calibrate your height and you can move your view forward if you have hair/armor in your view, or enable headless mode although it will lower your difficulties as it reduces your hit box and makes you immune to hit shots
+- FRIK crashes the game when you create new characters so it is disabled on start up.  Once you create a character you can enable the mod and plugin sections, it is the last mod and plugin on each side of MO2  
 - Customize virtual chem and holsters from holo tape in inventory  
 - Other mods/plugins are disabled for a reason, do not mass enable all, if you did, restore mod order with back arrow on mod tab.  Do not sort plugins with LOOT, restore plugin order with back arrow on plugin tab if you messed it up  
 - Always start the game with Play Game (F4SEVR) in MO2, do not open Steam VR ahead of the time.  If MO2 gets stuck before opening Steam VR, close MO2 and end all VR Server related processes in task manager
 - Set Steam resolution based on your headset resolution and GPU.  On Quest 2 and 3070 for example, I use Virtual Desktop high (equivalent of 135% Steam resolution) and leave Steam itself to 100%, using FSR balanced  
 - Oculus/Pico users, I strongly recommend Virtual Desktop
 
-## **Visuals and Performance**
+## **Visuals and Performance**  
 
 - If you have a much better card than 3070, consider disable FSR Quality and enable  the" FSR Disabled Sharpening Only" profile in MO2 mods section
 - If you need more FPS, enable FSR balanced or performance instead of quality in MO2 mods
+- Oculus link users can experiment with Open Composite, I still swear by Virtual Desktop myself   
 - Running out of VRAM is the easiest way to make the game unplayable.  On 8GB cards, consider download and replace the textures with Luxor 2K if you experience stuttering in cities: https://www.nexusmods.com/fallout4/mods/65720 
-
+  
 ## **Gameplay Notes**
 
 - I play on survival difficulty, with no follower.  Thanks to the "Unlimited Survival" mod, many tedious aspects of survival are disabled.  You can save game any time and fast travel, and the extra survival elements really makes it fun
@@ -54,6 +55,22 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 - Character builds, especially with legendary crafting thanks to ECO, is deep and satisfying.  You can still build a very powerful character, but the enemy will always be able to kill you quickly on higher difficulties.  Being able to take 4 bullets instead of 2, is not the same as being able to take 4 fireballs instead of 2 in Skyrim
 - Highly recommend you enable SKK Stalker halo tape!  It is the best random enemy spawner and really keeps you on your toes
 - You can lower the difficulty any time, cheat terminal is also included to quickly try out new guns, SKK respec is included to try new builds
+
+## **Mod Settings**  
+
+FRIK
+- Use FRIK holo tape in inventory to calibrate your height
+- You can move your view forward if you have hair/armor in your view, or enable headless mode although it will lower your difficulties as it reduces your hit box and makes you immune to head shots
+- The weapon positions are adjusted for static gripping which should always be on, there are a lot of custom edits to the weapon custom patches and I will not support anything other than static gripping   
+
+Virtual holsters
+- Have a weapon in your hand. Move it over a holster sphere, feel light buzz on the controller.
+- Hold Favorites button until bigger buzz, now the weapon is assigned to that holster.
+- Now you can pick up the weapon from holster with Grip Or A button.aka "Use" button, same that opens doors. Same button to put the weapon pack to holster
+- To remove/empty weapon from holster, hold Favorites button with empty hands over the holster sphere until a big buzz informs that holster is empty and ready for a different weapon
+
+Virtual chems
+- With your left hand pick up stimpaks from your left ear and stab em in your right hand! Inhale all accidentally picked up jets!
   
 ## **Updating to New Version**
 
@@ -77,3 +94,5 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 - Balance of weapon and armor distribution will need more work, your feedback is welcome!
 - DLC weapon and armor replacer need more work, for the first release I focused on vanilla contents  
 - Given the huge change to the entire leveled list, if you notice bugs or crashes like fighting a specific enemy with a specific weapon, or weapon/armor bench crashes due to specific keywords, please let me know on Discord and I will patch it
+- Do not save in power armor, can cause corrupted saves
+- Install "Right Grip to Interact - UI fix" from Nexus if you use SteamVR to change right hands A and Grip buttons (will include this next release)
