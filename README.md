@@ -19,10 +19,10 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
   
 ## **Installation**
 
-- (Mandatory!) Copy DLC from Fallout 4 To Fallout 4VR.  In /data/ folder copy all 32 files that start with DLC
-- (Optional) Clean install of Fallout 4: https://www.youtube.com/watch?v=zwTJ3jImCiQ
+- (Optional) Clean install of Fallout 4 and Fallout 4 VR: https://www.youtube.com/watch?v=zwTJ3jImCiQ
+- (Mandatory!) Copy DLC from Fallout 4 To Fallout 4 VR.  Copy all 32 files that start with DLC from Fallout 4 /data to Fallout 4 VR /data 
 - Download the zip file from Nexus, extract into .wabbajack file
-- Download and run Wabbajack program itself from https://www.wabbajack.org/ and choose the install from disk option, install to a root folder not shared by Fallout 4 VR, as MO2 needs full lock to the entire directory
+- Download and run Wabbajack program itself from https://www.wabbajack.org/ and choose the "Install From Disk" option, install to a root folder not shared by Fallout 4 VR, as MO2 needs full lock to the entire directory
 - Antivirus will occasionally flag Wabbajack files or even textures from Nexus, it is safe to ignore, please see Wabbajack Discord for this well known issue.  You may need to whitelist the directory it installs to as well as the downloads
 - You do not EVER need to delete and install a Wabbajack list from scratch, it is a 100% file sync
 - Typical download errors are caused by Nexus server issues.  Quit Wabbajack, restart, overwrite to resume and you won't lose any progress
@@ -32,7 +32,8 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 
 - Once installation is complete, open MO2 from the installed folder and run "Play Game (F4SEVR)" from upper right corner, everything is already included and ready to go out of box
 - When starting new game, stand still wait for all the workshop framework to run and finish after you create character, you will be teleported into the game automatically once it is done
-- FRIK crashes the game when you create new characters (unless you already loaded a save in the current session which initiates its skeleton), so it is disabled on start up.  Once you create a character you can enable the mod and plugin sections, it is the last mod and plugin on each side of MO2.  Use FRIK holo tape in inventory to calibrate your height and you can move your view forward if you have hair/armor in your view, or enable headless mode although it will lower your difficulties as it reduces your hit box   
+- FRIK crashes the game when you create new characters so it is disabled on start up.  Once you create a character you can enable the mod and plugin sections, it is the last mod and plugin on each side of MO2.  Use FRIK holo tape in inventory to calibrate your height and you can move your view forward if you have hair/armor in your view, or enable headless mode although it will lower your difficulties as it reduces your hit box and makes you immune to hit shots
+- Customize virtual chem and holsters from holo tape in inventory  
 - Other mods/plugins are disabled for a reason, do not mass enable all, if you did, restore mod order with back arrow on mod tab.  Do not sort plugins with LOOT, restore plugin order with back arrow on plugin tab if you messed it up  
 - Always start the game with Play Game (F4SEVR) in MO2, do not open Steam VR ahead of the time.  If MO2 gets stuck before opening Steam VR, close MO2 and end all VR Server related processes in task manager
 - Set Steam resolution based on your headset resolution and GPU.  On Quest 2 and 3070 for example, I use Virtual Desktop high (equivalent of 135% Steam resolution) and leave Steam itself to 100%, using FSR balanced  
@@ -40,16 +41,16 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 
 ## **Visuals and Performance**
 
-- If you have a much better card than 3070, consider disable FSR with the" FSR Disabled Sharpening Only" profile in MO2 mods section
-- If you need more FPS, enable FSR performance instead of quality in MO2 mods
+- If you have a much better card than 3070, consider disable FSR Quality and enable  the" FSR Disabled Sharpening Only" profile in MO2 mods section
+- If you need more FPS, enable FSR balanced or performance instead of quality in MO2 mods
 - Running out of VRAM is the easiest way to make the game unplayable.  On 8GB cards, consider download and replace the textures with Luxor 2K if you experience stuttering in cities: https://www.nexusmods.com/fallout4/mods/65720 
 
 ## **Gameplay Notes**
 
-- I play on survival difficulty, with no follower.  Thanks to the "Unlimited Survival" mod, many tedious aspects of survival are disabled.  You can save game any time and fast travel.
+- I play on survival difficulty, with no follower.  Thanks to the "Unlimited Survival" mod, many tedious aspects of survival are disabled.  You can save game any time and fast travel, and the extra survival elements really makes it fun
 - This is the modern tactical edition, standing in the open for a few seconds against a couple of raider's with AK's, and you are dead even on Very Easy.  Time to kill is fast on both sides.  Every single weapon you can use, the enemy has them too!
 - Bullet time VATS is a great way to even the odds, although I personally only use it if I die many times in a row for the challenge.  Relying on positioning and tactics instead of brute force  
-- Weapons are randomly distributed on both sides for the element of surprise.  Higher character levels will provide more variety, more modern weapons, you will go from MP5 to MP9, AK47 to AN94 and so on.  This provides an element of surprise as you never know whether the next Raider is packing a simple pistol or a nasty LMG
+- Weapons are randomly distributed on both sides for rogue-like element of surprise.  This provides an element of surprise as you never know whether the next Raider is packing a simple pistol or a nasty LMG.  Higher character levels will provide more variety, more modern weapons, you will go from MP5 to MP9, AK47 to AN94 and so on.  
 - Character builds, especially with legendary crafting thanks to ECO, is deep and satisfying.  You can still build a very powerful character, but the enemy will always be able to kill you quickly on higher difficulties.  Being able to take 4 bullets instead of 2, is not the same as being able to take 4 fireballs instead of 2 in Skyrim
 - Highly recommend you enable SKK Stalker halo tape!  It is the best random enemy spawner and really keeps you on your toes
 - You can lower the difficulty any time, cheat terminal is also included to quickly try out new guns, SKK respec is included to try new builds
@@ -64,7 +65,7 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 ## **Add New Mods**
 
 - Always have a separate save game before adding new mods, in case you need to remove and revert
-- In general any mod without specific requirement is safe to add, place them in the right category on left side and right side.  For example new gunss should go after weapon mods, new companion should go after NPC mods.  Do not sort with LOOT
+- In general any mod without specific requirement is safe to add, place them in the right category on left side and right side.  For example new guns should go after weapon mods, new companion should go after NPC mods.  Do not sort with LOOT
 - Any mods that need to be in root folder will need to be put into the root folder of Essential Boot Files (back up existing files first).  This modlist uses Root Builder so your actual root folder is 100% clean
 
 ## **Changing Weather**
@@ -73,6 +74,6 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 - Click back arrow from plugins tab to sort the plugins correctly
   
 ## **Known Issues**
-- Weapon and armor balance will need more work, your feedback is welcome!  Any number can be edited easily
+- Balance of weapon and armor distribution will need more work, your feedback is welcome!
 - DLC weapon and armor replacer need more work, for the first release I focused on vanilla contents  
-- Given the huge change to the entire leveled list, if you notice bugs or crashes, please let me know on Discord and I will patch it
+- Given the huge change to the entire leveled list, if you notice bugs or crashes like fighting a specific enemy with a specific weapon, or weapon/armor bench crashes due to specific keywords, please let me know on Discord and I will patch it
