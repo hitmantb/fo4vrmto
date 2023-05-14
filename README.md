@@ -46,11 +46,13 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 
 ## **Gameplay Notes**
 
-- This is the modern tactical edition, standing in the open for a few seconds means you are dead against a couple of raider's with AK's on higher difficulties.  Time to kill is fast on both sides.  Every single weapon you can use, the enemy has them too  
-- You can lower the difficulty any time, cheat terminal is also included to quickly try out new guns, SKK respec is included to try new builds
-- Weapons are randomly distributed on both sides for the element of surprise.  Higher character levels will provide more variety, more modern weapons, think from MP5 to MP9, or AK47 to AN94
+- I play on survival difficulty, with no follower.  Thanks to the "Unlimited Survival" mod, many tedious aspects of survival are disabled.  You can save game any time and fast travel.
+- This is the modern tactical edition, standing in the open for a few seconds against a couple of raider's with AK's, and you are dead even on Very Easy.  Time to kill is fast on both sides.  Every single weapon you can use, the enemy has them too!
+- Bullet time VATS is a great way to even the odds, although I personally only use it if I die many times in a row for the challenge.  Relying on positioning and tactics instead of brute force  
+- Weapons are randomly distributed on both sides for the element of surprise.  Higher character levels will provide more variety, more modern weapons, you will go from MP5 to MP9, AK47 to AN94 and so on.  This provides an element of surprise as you never know whether the next Raider is packing a simple pistol or a nasty LMG
 - Character builds, especially with legendary crafting thanks to ECO, is deep and satisfying.  You can still build a very powerful character, but the enemy will always be able to kill you quickly on higher difficulties.  Being able to take 4 bullets instead of 2, is not the same as being able to take 4 fireballs instead of 2 in Skyrim
 - Highly recommend you enable SKK Stalker halo tape!  It is the best random enemy spawner and really keeps you on your toes
+- You can lower the difficulty any time, cheat terminal is also included to quickly try out new guns, SKK respec is included to try new builds
   
 ## **Updating to New Version**
 
