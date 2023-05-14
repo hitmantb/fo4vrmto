@@ -11,6 +11,7 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 - [Installation](#installation)
 - [Starting The Game](#starting-the-game)
 - [Visuals and Performance](#visuals-and-performance)
+- [Mod Settings](#mod-settings)  
 - [Gameplay Notes](#gameplay-notes)
 - [Updating to New Version](#updating-to-new-version)
 - [Add New Mods](#add-new-mods)
@@ -53,24 +54,40 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 - Bullet time VATS is a great way to even the odds, although I personally only use it if I die many times in a row for the challenge.  Relying on positioning and tactics instead of brute force  
 - Weapons are randomly distributed on both sides for rogue-like element of surprise.  This provides an element of surprise as you never know whether the next Raider is packing a simple pistol or a nasty LMG.  Higher character levels will provide more variety, more modern weapons, you will go from MP5 to MP9, AK47 to AN94 and so on.  
 - Character builds, especially with legendary crafting thanks to ECO, is deep and satisfying.  You can still build a very powerful character, but the enemy will always be able to kill you quickly on higher difficulties.  Being able to take 4 bullets instead of 2, is not the same as being able to take 4 fireballs instead of 2 in Skyrim
-- Highly recommend you enable SKK Stalker halo tape!  It is the best random enemy spawner and really keeps you on your toes
 - You can lower the difficulty any time, cheat terminal is also included to quickly try out new guns, SKK respec is included to try new builds
 
 ## **Mod Settings**  
 
+MO2 Mods Section
+  
+FSR
+- Choose different quality settings depend on your hardware and device resolution
+
+Reshade
+- Applies color correction and sharpening, the full version applies additional lighting changes, see which one you like better  
+
+In Game MCM
+  
 FRIK
 - Use FRIK holo tape in inventory to calibrate your height
 - You can move your view forward if you have hair/armor in your view, or enable headless mode although it will lower your difficulties as it reduces your hit box and makes you immune to head shots
-- The weapon positions are adjusted for static gripping which should always be on, there are a lot of custom edits to the weapon custom patches and I will not support anything other than static gripping   
+- The weapon positions are adjusted for static gripping which should always be on, there are a lot of custom edits to the weapon custom patches and I will not support anything other than static gripping
 
-Virtual holsters
+NAC X
+- Disable chem FX, hit FX if you don't like it
+- I already edited ESP to disable sunglass, vignette and noise by default  
+
+SKK Combat Stalker 
+- It is the best random enemy spawner and really keeps you on your toes, recommended although it can obviously make your game a tad less stable if spawned in specific situations  
+
+Virtual Chems - This mod is quite janky at times and I will probably leave it disabled by default
+- With your left hand pick up stimpaks from your left ear and stab em in your right hand! Inhale all accidentally picked up jets!
+  
+Virtual Holsters - This mod like most other holster mods is quite janky at times and I will probably leave it disabled by default
 - Have a weapon in your hand. Move it over a holster sphere, feel light buzz on the controller.
 - Hold Favorites button until bigger buzz, now the weapon is assigned to that holster.
 - Now you can pick up the weapon from holster with Grip Or A button.aka "Use" button, same that opens doors. Same button to put the weapon pack to holster
 - To remove/empty weapon from holster, hold Favorites button with empty hands over the holster sphere until a big buzz informs that holster is empty and ready for a different weapon
-
-Virtual chems
-- With your left hand pick up stimpaks from your left ear and stab em in your right hand! Inhale all accidentally picked up jets!
   
 ## **Updating to New Version**
 
