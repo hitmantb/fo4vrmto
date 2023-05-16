@@ -23,8 +23,8 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 - (Optional) Clean install of Fallout 4 and Fallout 4 VR: https://www.youtube.com/watch?v=zwTJ3jImCiQ
 - (Mandatory!) Copy DLC from Fallout 4 To Fallout 4 VR.  Copy all 32 files that start with DLC from Fallout 4 /data to Fallout 4 VR /data 
 - Download the zip file from Nexus, extract into .wabbajack file
-- Download and run Wabbajack program itself from https://www.wabbajack.org/ and choose the "Install From Disk" option, install to a root folder not shared by Fallout 4 VR, as MO2 needs full lock to the entire directory
-- Antivirus will occasionally flag Wabbajack files or even textures from Nexus, it is safe to ignore, please see Wabbajack Discord for this well known issue.  You may need to whitelist the directory it installs to as well as the downloads
+- Download and run Wabbajack program itself from https://www.wabbajack.org/ and choose the "Install From Disk" option, install to a root folder not shared by Fallout 4 VR like D:\FO4VR_Overhaul, as MO2 needs full lock to the entire directory
+- Antivirus will occasionally flag Wabbajack files or even textures from Nexus, it is safe to ignore, please see Wabbajack Discord for this well known issue.  You may need to whitelist the directory it installs to as well as the downloads folder
 - You do not EVER need to delete and install a Wabbajack list from scratch, it is a 100% file sync
 - Typical download errors are caused by Nexus server issues.  Quit Wabbajack, restart, overwrite to resume and you won't lose any progress
 - If the error is about a file that should be part of standard Fallout 4 VR installation, set the game to English, do a Steam file validation
@@ -32,9 +32,8 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 ## **Starting The Game**
 
 - Once installation is complete, open MO2 from the installed folder and run "Play Game (F4SEVR)" from upper right corner, everything is already included and ready to go out of box
-- When starting new game, stand still wait for all the workshop framework to run and finish after you create character, you will be teleported into the game automatically once it is done
-- FRIK crashes the game when you create new characters so it is disabled on start up.  Once you create a character you can enable the mod and plugin sections, it is the last mod and plugin on each side of MO2  
-- Customize virtual chem and holsters from holo tape in inventory  
+- When starting new game, stand still wait for all the workshop framework to run and finish after you create character, you will be teleported into the game automatically once it is done, so chill in your house for a while.  This will skip the buggy intro sequence, feel free to play the game unmodded to watch the opening scene if you want to experience the intro, then run MO2 to resume on the save after you leave vault
+- FRIK crashes the game when you create new characters so it is disabled on start up.  Once you create a character and get to the surface, you can enable FRIK to resume, it is the last mod and plugin on each side of MO2  
 - Other mods/plugins are disabled for a reason, do not mass enable all, if you did, restore mod order with back arrow on mod tab.  Do not sort plugins with LOOT, restore plugin order with back arrow on plugin tab if you messed it up  
 - Always start the game with Play Game (F4SEVR) in MO2, do not open Steam VR ahead of the time.  If MO2 gets stuck before opening Steam VR, close MO2 and end all VR Server related processes in task manager
 - Set Steam resolution based on your headset resolution and GPU.  On Quest 2 and 3070 for example, I use Virtual Desktop high (equivalent of 135% Steam resolution) and leave Steam itself to 100%, using FSR balanced  
@@ -42,18 +41,18 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 
 ## **Visuals and Performance**  
 
-- If you have a much better card than 3070, consider disable FSR Quality and enable  the" FSR Disabled Sharpening Only" profile in MO2 mods section
+- If you have a much better card than 3070, consider disable FSR Quality and enable the "FSR Disabled Sharpening Only" profile in MO2 mods section for maximum image quality
 - If you need more FPS, enable FSR balanced or performance instead of quality in MO2 mods
-- Oculus link users can experiment with Open Composite, I still swear by Virtual Desktop myself   
-- Running out of VRAM is the easiest way to make the game unplayable.  On 8GB cards, consider download and replace the textures with Luxor 2K if you experience stuttering in cities: https://www.nexusmods.com/fallout4/mods/65720 
+- Oculus link users can experiment with Open Composite, I swear by Virtual Desktop myself   
+- Running out of VRAM is the easiest way to make the game unplayable.  On 8GB cards like 3070 and 3060TI, consider download and replace the textures with Luxor 2K if you experience stuttering in cities: https://www.nexusmods.com/fallout4/mods/65720 
   
 ## **Gameplay Notes**
 
 - I play on survival difficulty, with no follower.  Thanks to the "Unlimited Survival" mod, many tedious aspects of survival are disabled.  You can save game any time and fast travel, and the extra survival elements really makes it fun
-- This is the modern tactical edition, standing in the open for a few seconds against a couple of raider's with AK's, and you are dead even on Very Easy.  Time to kill is fast on both sides.  Every single weapon you can use, the enemy has them too!
-- Bullet time VATS is a great way to even the odds, although I personally only use it if I die many times in a row for the challenge.  Relying on positioning and tactics instead of brute force  
-- Weapons are randomly distributed on both sides for rogue-like element of surprise.  This provides an element of surprise as you never know whether the next Raider is packing a simple pistol or a nasty LMG.  Higher character levels will provide more variety, more modern weapons, you will go from MP5 to MP9, AK47 to AN94 and so on.  
-- Character builds, especially with legendary crafting thanks to ECO, is deep and satisfying.  You can still build a very powerful character, but the enemy will always be able to kill you quickly on higher difficulties.  Being able to take 4 bullets instead of 2, is not the same as being able to take 4 fireballs instead of 2 in Skyrim
+- This is the modern tactical edition, standing in the open for a few seconds a raider with AK47, and you are dead.  Time to kill is fast on both sides.  Every single weapon you can use, the enemy has them too!
+- Bullet time VATS is a great way to even the odds, although I personally only use it if I die many times in a row for the challenge.  Relying on positioning and tactics instead of super power
+- Weapons are randomly distributed on both sides for rogue-like element of surprise.  This provides an element of surprise as you never know whether the next Raider is packing a simple pistol or a nasty LMG.  Higher character levels will provide more variety, more modern weapons, you will go from MP5 to MP9, AK47 to AN94 and so on  
+- Character builds, especially with legendary crafting thanks to ECO, is deep and satisfying.  You can still build a very powerful character, but the enemy will always be able to kill you quickly on higher difficulties.  Being able to take 4 bullets instead of 2 through build/equipment upgrades, is not the same as being able to take 4 fireballs instead of 2 in Skyrim
 - You can lower the difficulty any time, cheat terminal is also included to quickly try out new guns, SKK respec is included to try new builds
 
 ## **Mod Settings**  
@@ -74,16 +73,16 @@ FRIK
 - The weapon positions are adjusted for static gripping which should always be on, there are a lot of custom edits to the weapon custom patches and I will not support anything other than static gripping
 
 NAC X
-- Disable chem FX, hit FX if you don't like it
+- Disable chem FX, hit FX and specific weather effects if you don't like it
 - I already edited ESP to disable sunglass, vignette and noise by default  
 
 SKK Combat Stalker 
-- It is the best random enemy spawner and really keeps you on your toes, recommended although it can obviously make your game a tad less stable if spawned in specific situations  
+- It is the best random enemy spawner, and really keeps you on your toes with search and destroy death squads, recommended although it can make your game a tad less stable if spawned in specific situations  
 
-Virtual Chems - This mod is quite janky at times and I will probably leave it disabled by default
+Virtual Chems - This mod is quite janky at times and I will probably leave it disabled by default next release
 - With your left hand pick up stimpaks from your left ear and stab em in your right hand! Inhale all accidentally picked up jets!
   
-Virtual Holsters - This mod like most other holster mods is quite janky at times and I will probably leave it disabled by default
+Virtual Holsters - This mod is quite janky at times and I will probably leave it disabled by default next release
 - Have a weapon in your hand. Move it over a holster sphere, feel light buzz on the controller.
 - Hold Favorites button until bigger buzz, now the weapon is assigned to that holster.
 - Now you can pick up the weapon from holster with Grip Or A button.aka "Use" button, same that opens doors. Same button to put the weapon pack to holster
@@ -108,8 +107,9 @@ Virtual Holsters - This mod like most other holster mods is quite janky at times
 - Click back arrow from plugins tab to sort the plugins correctly
   
 ## **Known Issues**
-- Balance of weapon and armor distribution will need more work, your feedback is welcome!
+- Balance of weapon and armor distribution will likely need more work, your feedback is welcome!
 - DLC weapon and armor replacer need more work, for the first release I focused on vanilla contents  
-- Given the huge change to the entire leveled list, if you notice bugs or crashes like fighting a specific enemy with a specific weapon, or weapon/armor bench crashes due to specific keywords, please let me know on Discord and I will patch it
-- Do not save in power armor, can cause corrupted saves
+- Given the huge change to the entire leveled list, if you notice bugs or crashes like fighting a specific enemy with a specific weapon, or weapon/armor bench crashes due to specific keywords, please let me know on the Discord and I will patch it
 - Install "Right Grip to Interact - UI fix" from Nexus if you use SteamVR to change right hands A and Grip buttons (will include this next release)
+- Do not save in power armor, can cause corrupted saves, same as vanilla Fallout 4 VR
+- Turning on flashlight while opening inventory has a small chance of crashing your game, same as vanilla Fallout 4 VR
