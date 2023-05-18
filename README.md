@@ -49,9 +49,9 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 ## **Gameplay Notes**
 
 - I play on survival difficulty, with no follower.  Thanks to the "Unlimited Survival" mod, many tedious aspects of survival are disabled.  You can save game any time and fast travel, and the extra survival elements really makes it fun
-- This is the modern tactical edition, standing in the open for a few seconds a raider with AK47, and you are dead.  Time to kill is fast on both sides.  Every single weapon you can use, the enemy has them too!
+- This is the modern tactical edition, standing in the open for a few seconds against a raider with AK47, and you are dead.  Time to kill is fast on both sides.  Every single weapon you can use, the enemy has them too!
 - Bullet time VATS is a great way to even the odds, although I personally only use it if I die many times in a row for the challenge.  Relying on positioning and tactics instead of super power
-- Weapons are randomly distributed on both sides for rogue-like element of surprise.  This provides an element of surprise as you never know whether the next Raider is packing a simple pistol or a nasty LMG.  Higher character levels will provide more variety, more modern weapons, you will go from MP5 to MP9, AK47 to AN94 and so on  
+- Weapons are randomly distributed on both sides for rogue-like element of surprise.  This provides an element of surprise as you never know whether the next Raider is packing a simple pistol or an AK.  Higher character levels will provide more variety, more modern weapons, as you level you will see loot pool grow from MP5 to MP9, AK47 to AN94 and so on  
 - Character builds, especially with legendary crafting thanks to ECO, is deep and satisfying.  You can still build a very powerful character, but the enemy will always be able to kill you quickly on higher difficulties.  Being able to take 4 bullets instead of 2 through build/equipment upgrades, is not the same as being able to take 4 fireballs instead of 2 in Skyrim
 - You can lower the difficulty any time, cheat terminal is also included to quickly try out new guns, SKK respec is included to try new builds
 
