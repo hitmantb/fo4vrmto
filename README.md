@@ -102,11 +102,14 @@ Virtual Holsters - This mod is quite janky at times and I will probably leave it
 - Any mods that need to be in root folder will need to be put into the root folder of Essential Boot Files (back up existing files first).  This modlist uses Root Builder so your actual root folder is 100% clean
 
 ## **Changing Weather**
+
 - Go indoor and make a save, exit game
 - Turn off current weather (NAC X) in MO2 mods, enable new weather (Vivid and True Storms)
 - Click back arrow from plugins tab to sort the plugins correctly
   
 ## **Known Issues**
+
+- Virtual Chem and Holster are quite unreliable, will remove from next release
 - Balance of weapon and armor distribution will likely need more work, your feedback is welcome!
 - DLC weapon and armor replacer need more work, for the first release I focused on vanilla contents  
 - Given the huge change to the entire leveled list, if you notice bugs or crashes like fighting a specific enemy with a specific weapon, or weapon/armor bench crashes due to specific keywords, please let me know on the Discord and I will patch it
