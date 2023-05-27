@@ -117,7 +117,7 @@ Virtual Holsters - This mod is quite janky at times and I will probably leave it
 ## **Known Issues**
 
 - Virtual Chem and Holster are quite unreliable, will disable/remove from next release
-- VR Weapon Overhaul has done a ton of calibration on weapons, scopes and sights but not every single combination is going to be perfect.  Use the Westtek Scope created by the author for most accurate scopes.    
+- VR Weapon Overhaul has done a ton of calibration on weapons, scopes and sights but not every single combination is going to be perfect for every user.  Use the Westtek Scope created by the author for most accurate scopes, or use a weapon that works better for you    
 - Balance of weapon and armor distribution will likely need more work, your feedback is welcome!
 - DLC weapon and armor replacer need more work, for the first release I focused on vanilla contents  
 - Given the huge change to the entire leveled list, if you notice bugs or crashes like fighting a specific enemy with a specific weapon, or weapon/armor bench crashes due to specific keywords, please let me know on the Discord and I will patch it
