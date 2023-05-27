@@ -64,7 +64,13 @@ FSR
 - Choose different quality settings depend on your hardware and device resolution
 
 Reshade
-- Applies color correction and sharpening, the full version applies additional lighting changes, see which one you like better  
+- Applies color correction and sharpening, the full version applies a faux HDR on lighting, see which one you like better  
+
+V.A.T.S. Tweaks
+- Reinstall this mod to make bullet time faster/slower
+
+HUIDE - Hide HUD Elements in VR
+- Reinstall this mod to choose more/less UI elements  
 
 In Game MCM
   
