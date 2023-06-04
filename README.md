@@ -20,7 +20,7 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
   
 ## **Installation**
 
-- (Optional) Clean install of Fallout 4 and Fallout 4 VR: https://www.youtube.com/watch?v=zwTJ3jImCiQ
+- Installation Video: https://youtu.be/09HKDIEJtho?t=330
 - (Mandatory!) Copy DLC from Fallout 4 To Fallout 4 VR.  Copy all 32 files that start with DLC from Fallout 4 /data to Fallout 4 VR /data 
 - Download the zip file from Nexus, extract into .wabbajack file
 - Download and run Wabbajack program itself from https://www.wabbajack.org/ and choose the "Install From Disk" option, install to a root folder not shared by Fallout 4 VR like D:\FO4VR_Overhaul, as MO2 needs full lock to the entire directory
