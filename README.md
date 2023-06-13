@@ -33,7 +33,7 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 
 - Once installation is complete, open MO2 from the installed folder and run "Play Game (F4SEVR)" from upper right corner, everything is already included and ready to go out of box
 - When starting new game, stand still wait for all the workshop framework to run and finish after you create character, you will be teleported into the game automatically once it is done, so chill in your house for a while.  This will skip the buggy intro sequence, feel free to play the game unmodded to watch the opening scene if you want to experience the intro, then run MO2 to resume on the save after you leave vault
-- FRIK crashes the game when you create new characters so it is disabled on start up.  Once you create a character and get to the surface, you can enable FRIK to resume, it is the last mod and plugin on each side of MO2  
+- FRIK crashes the game when you create new characters so it is disabled on start up.  Once you create a character and get to the surface, you can save the game, exit, enable FRIK in MO2 to resume, it is the last mod and plugin on each side of MO2  
 - Pip Boy should be set to Projected with in-game setting, otherwise you may get a blank screen in FRIK  
 - Other mods/plugins are disabled for a reason, do not mass enable all, if you did, restore mod order with back arrow on mod tab.  Do not sort plugins with LOOT, restore plugin order with back arrow on plugin tab if you messed it up  
 - Always start the game with Play Game (F4SEVR) in MO2, do not open Steam VR ahead of the time.  If MO2 gets stuck before opening Steam VR, close MO2 and end all VR Server related processes in task manager
