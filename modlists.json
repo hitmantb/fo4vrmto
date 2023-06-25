@@ -1,0 +1,39 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Fallout 4 VR Modern Tactical Overhaul",
+    "description": "Modern, Gorgeous, the only AAA open world tactical shooter experience in VR",
+    "author": "hitmantb",
+    "maintainers": [
+      "github/hitmantb"
+    ],
+    "game": "fallout4vr",
+    "tags": [
+      "VR",
+      "Modern Tactical Weapons",
+      "4K Ultra Graphics",
+      "For High End Systems"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/hitmantb/fo4vrmto/main/logo.webp",
+      "readme": "https://www.nexusmods.com/fallout4/mods/71281",
+      "download": "https://authored-files.wabbajack.org/Fallout 4 VR - Modern Tactical Overhaul.wabbajack_13a9f178-4f0d-4d99-ab64-430b3286820f",
+      "machineURL": "fosvrmto",
+      "discordURL": "https://discord.gg/RwZvZG6qf3"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "ZLuLorO0I8U=",
+      "Size": 833803528,
+      "NumberOfArchives": 615,
+      "SizeOfArchives": 129681933385,
+      "NumberOfInstalledFiles": 135684,
+      "SizeOfInstalledFiles": 182396029451
+    },
+    "version": "1.10"
+  }
+]
