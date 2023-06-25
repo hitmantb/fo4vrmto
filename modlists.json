@@ -1,4 +1,4 @@
-[
+ [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Fallout 4 VR Modern Tactical Overhaul",
@@ -10,7 +10,7 @@
     "game": "fallout4vr",
     "tags": [
       "VR",
-      "COD Guns",
+      "Modern Tactical Weapons",
       "4K Ultra Graphics",
       "For High End Systems"
     ],
@@ -22,7 +22,7 @@
       "image": "https://raw.githubusercontent.com/hitmantb/fo4vrmto/main/logo.webp",
       "readme": "https://www.nexusmods.com/fallout4/mods/71281",
       "download": "https://authored-files.wabbajack.org/Fallout 4 VR - Modern Tactical Overhaul.wabbajack_13a9f178-4f0d-4d99-ab64-430b3286820f",
-      "machineURL": "fosvrmto",
+      "machineURL": "fo4vrmto",
       "discordURL": "https://discord.gg/RwZvZG6qf3"
     },
     "download_metadata": {
