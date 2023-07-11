@@ -70,7 +70,13 @@ V.A.T.S. Tweaks
 - Reinstall this mod to make bullet time faster/slower
 
 HUIDE - Hide HUD Elements in VR
-- Reinstall this mod to choose more/less UI elements  
+- Reinstall this mod to choose more/less UI elements
+
+Enable Nudity
+- Run included BodySlide from MO2 drop down menu
+- Click Batch Build (lower left corner)
+- Right click the list of outfits and Select All
+- Choose CBBE Body Physics 
 
 In Game MCM
   
