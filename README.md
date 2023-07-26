@@ -32,12 +32,12 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 ## **Starting The Game**
 
 - Once installation is complete, open MO2 from the installed folder and run "Play Game (F4SEVR)" from upper right corner, everything is already included and ready to go out of box
+- Depend on your headset you may need to launch Steam VR ahead of the time before opening the game in MO2, Oculus users should set Oculus run time to Steam VR in Oculus App
+- Set resolution multiplier in only ONE of the three places: Virtual Desktop, Oculus App or Steam VR, the others should be left at 100%. The sweet spot is VD ultra, Oculus 1.5x or Steam VR 150% resolution to cover barrel distortion. This is not always playable depend on your headset resolution and GPU, on a 3070 and Quest 2 for example, I could only do VD high (130% of device resolution), with the same card and Pico 4 I will need to go lower. Increase/decrease the resolution depend on your headset and GPU
 - When starting new game, stand still wait for all the workshop framework to run and finish after you create character, you will be teleported into the game automatically once it is done, so chill in your house for a while.  This will skip the buggy intro sequence, feel free to play the game unmodded to watch the opening scene if you want to experience the intro, then run MO2 to resume on the save after you leave vault
 - FRIK crashes the game when you create new characters so it is disabled on start up.  Once you create a character and get to the surface, you can save the game, exit, enable FRIK in MO2 to resume, it is the last mod and plugin on each side of MO2  
 - Pip Boy should be set to Projected with in-game setting, otherwise you may get a blank screen in FRIK  
 - Other mods/plugins are disabled for a reason, do not mass enable all, if you did, restore mod order with back arrow on mod tab.  Do not sort plugins with LOOT, restore plugin order with back arrow on plugin tab if you messed it up  
-- Always start the game with Play Game (F4SEVR) in MO2, do not open Steam VR ahead of the time.  If MO2 gets stuck before opening Steam VR, close MO2 and end all VR Server related processes in task manager
-- Set Steam resolution based on your headset resolution and GPU.  On Quest 2 and 3070 for example, I use Virtual Desktop high (equivalent of 135% Steam resolution) and leave Steam itself to 100%, using FSR balanced  
 - Oculus/Pico users, I strongly recommend Virtual Desktop
 
 ## **Visuals and Performance**  
