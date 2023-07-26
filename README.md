@@ -42,9 +42,9 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 
 ## **Visuals and Performance**  
 
-- If you have a much better card than 3070, consider disable FSR Quality and enable the "FSR Disabled Sharpening Only" profile in MO2 mods section for maximum image quality
-- If you need more FPS, enable FSR balanced or performance instead of quality in MO2 mods
-- Oculus link users can experiment with Open Composite, I swear by Virtual Desktop myself   
+- Right click the FSR mods you selected, open in explorer, edit the YML file and increase sharpness
+- Use FSR quality in MO2 mods or in the case of 4080/4090, try the FSR Disabled Sharpening Only profile
+- Increase resolution multiplier in Virtual Desktop, Oculus App or Steam VR, the sweet spot is 150% of device resolution in one of these three places 
 - Running out of VRAM is the easiest way to make the game unplayable.  On 8GB cards like 3070 and 3060TI, consider download and replace the textures with Luxor 2K if you experience stuttering in cities: https://www.nexusmods.com/fallout4/mods/65720 
   
 ## **Gameplay Notes**
