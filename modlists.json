@@ -3,7 +3,7 @@
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Fallout 4 VR Modern Tactical Overhaul",
     "description": "Modern, Gorgeous, the only AAA open world tactical shooter experience in VR",
-    "author": "hitmantb",
+    "author": "AAA PCVR",
     "maintainers": [
       "github/hitmantb"
     ],
@@ -27,13 +27,13 @@
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-	     "Hash": "QMwmmLxAEmk=",
-	     "Size": 254426468,
-	     "NumberOfArchives": 279,
-	     "SizeOfArchives": 123984261688,
-	     "NumberOfInstalledFiles": 16228,
-	     "SizeOfInstalledFiles": 139650709728
+      "Hash": "Y6G65RfMobM=",
+      "Size": 257802808,
+      "NumberOfArchives": 277,
+      "SizeOfArchives": 124808756104,
+      "NumberOfInstalledFiles": 16385,
+      "SizeOfInstalledFiles": 140779255877
     },
-    "version": "1.10"
+    "version": "1.15"
   }
 ]
