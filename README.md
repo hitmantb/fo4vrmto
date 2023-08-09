@@ -33,6 +33,7 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 ## **Starting The Game**
 
 - Once installation is complete, open MO2 from the installed folder and run "Play Game (F4SEVR)" from upper right corner, everything is already included and ready to go out of box
+- AMD and GTX users, disable DLAA
 - Depend on your headset you may need to launch Steam VR ahead of the time before opening the game in MO2, if your game crashes before Bethesda logo and you see "Unable to Initialize VR" in crash log, uninstall and reinstall Steam VR
 - Depend on your sound system you may have weird weapon fire sounds or even CTD's, try disable Bullet Impact VR mod from MO2, it is stable for me and adds quite a punch to the guns, I may remove this mod permanently or make it off by default
 - Set resolution multiplier in only ONE of the three places: Virtual Desktop, Oculus App or Steam VR, the others should be left at 100%. The sweet spot is VD ultra, Oculus 1.5x or Steam VR 150% resolution to cover barrel distortion. This is not always playable depend on your headset resolution and GPU, on a 3070 and Quest 2 for example, I could only do 130% of device resolution, change the headset to Pico 4 I will need to go 110% device resoluton, with Index I can do 150% device resolution. G2 100% Steam VR resolution is already 150% of device resolution, so reduce it to 90% or 80% if needed
