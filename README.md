@@ -33,7 +33,6 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 ## **Starting The Game**
 
 - Once installation is complete, open MO2 from the installed folder and run "Play Game (F4SEVR)" from upper right corner, everything is already included and ready to go out of box
-- AMD and GTX users, disable Nvidia DLAA
 - Depend on your headset you may need to launch Steam VR ahead of the time before opening the game in MO2, if your game crashes before Bethesda logo and you see "Unable to Initialize VR" in crash log, uninstall and reinstall Steam VR
 - Please increase your virtual memory to 10-20 GB to avoid random crashes, especially if you are on 16 GB RAM
 - Please reset your Nvidia GPU driver settings to default and disable undervolt/overclocking if you experience random crashes, power limit is fine
