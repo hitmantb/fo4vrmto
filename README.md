@@ -4,7 +4,7 @@ Nexus Download: https://www.nexusmods.com/fallout4/mods/71281
 
 Best way to show your appreciation is to endorse on Nexus and post images/videos of this mod list on Reddit/Youtube.  
 
-This modlist is designed for 3070 and up.  I was playing on 11700 + 3070 until I upgraded to 3090, Virtual Desktop High (1.35x native Quest 2 resolution which shines with FSR upscaling), 45 FPS reprojected to 90.  For all crash issues, drop crash<dateTime stamp>.log from My Documents\Fallout4VR\F4SE in chat.  All other issues, please specify GPU and headset.
+This modlist is designed for 3070 and up.  I was playing on 11700 + 3070 until I upgraded to 3090, Virtual Desktop High (1.3x native Quest 2 resolution which shines with FSR upscaling), 45 FPS reprojected to 90.  For all crash issues, drop crash<dateTime stamp>.log from My Documents\Fallout4VR\F4SE in chat.  All other issues, please specify GPU and headset.
   
 DLC from regular Fallout 4 is required.  There are just too many mods that require it.
 
@@ -37,7 +37,6 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 - Depend on your headset you may need to launch Steam VR ahead of the time before opening the game in MO2, if your game crashes before Bethesda logo and you see "Unable to Initialize VR" in crash log, uninstall and reinstall Steam VR
 - Please increase your virtual memory to 10-20 GB to avoid random crashes, especially if you are on 16 GB RAM
 - Please reset your Nvidia GPU driver settings to default and disable undervolt/overclocking if you experience random crashes, power limit is fine
-- Set resolution multiplier in only ONE of the three places: Virtual Desktop, Oculus App or Steam VR, the others should be left at 100%. The sweet spot is VD ultra, Oculus 1.5x or Steam VR 150% resolution to cover barrel distortion. This is not always playable depend on your headset resolution and GPU, on a 3070 and Quest 2 for example, I could only do 130% of device resolution, change the headset to Pico 4 I will need to go 110% device resoluton, with Index I can do 150% device resolution. G2 100% Steam VR resolution is already 150% of device resolution, so reduce it to 90% or 80% if needed
 - When starting new game, stand still wait for all the workshop framework to run and finish after you create character, you will be teleported into the game automatically once it is done, so chill in your house for a while.  This will skip the buggy intro sequence, feel free to play the game unmodded to watch the opening scene if you want to experience the intro, then run MO2 to resume on the save after you leave vault
 - FRIK crashes the game when you create new characters so it is disabled on start up.  Once you create a character and get to the surface, you can save the game, exit, enable FRIK in MO2 to resume, it is the last mod and plugin on each side of MO2  
 - Pip Boy should be set to Projected with in-game setting, otherwise you may get a blank screen in FRIK  
@@ -46,10 +45,12 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 
 ## **Visuals and Performance**  
 
-- Right click the FSR mods you selected, open in explorer, edit the YML file and increase sharpness
-- Use FSR quality in MO2 mods or in the case of 4080/4090, try the FSR Disabled Sharpening Only profile
-- Increase resolution multiplier in Virtual Desktop, Oculus App or Steam VR, the sweet spot is 150% of device resolution in one of these three places 
-- Running out of VRAM is the easiest way to make the game unplayable.  On 8GB cards like 3070 and 3060TI, consider download and replace the textures with Luxor 2K if you experience stuttering in cities: https://www.nexusmods.com/fallout4/mods/65720 
+- Strongly recommend enabling DLAA or DLSS if you are a Nvidia user as they provide far better anti-aliasing than TAA
+- Disable VR FPS stablizer to disable INI adjustments which can cause flicker in some areas and reduce distance details when your FPS drops
+- 16 - 24GB VRAM users can consider replace the major texture packs like Luxor with 4K version if they have VRAM head room
+- Enable DLSS if you are Nvidia user, VR Performance Kit FSR if you are AMD (notice FSR is not compatible with Reshade and Open Composite) 
+- Set resolution multiplier in only ONE of the three places: Virtual Desktop, Oculus App or Steam VR, the others should be left at 100%.  The sweet spot is VD ultra, Oculus 1.5x or Steam VR 150% resolution to cover barrel distortion.  This is not always playable depend on your headset resolution and GPU, on a 3070 and Quest 2 for example, I could only do 130% of device resolution,  change the headset to Pico 4 I will need to go 100% device resoluton.  Index and G2 at Steam VR 100% is already 150% of device resolution, Index has low resolution so I am still good.  G2 at 100% Steam VR resolution is already 3000x3000, so reduce it to 90% or 80% if needed
+- Oculus and Virtual Desktop both have spacewarp frame generation, G2/Index have reprojection, they effectively double your FPS and should generally be enabled unless you have a 4080 or 409
   
 ## **Gameplay Notes**
 
@@ -96,15 +97,6 @@ NAC X
 SKK Combat Stalker 
 - It is the best random enemy spawner, and really keeps you on your toes with search and destroy death squads, recommended although it can make your game a tad less stable if spawned in specific situations  
 
-Virtual Chems - This mod is quite janky at times and I will probably leave it disabled by default next release
-- With your left hand pick up stimpaks from your left ear and stab em in your right hand! Inhale all accidentally picked up jets!
-  
-Virtual Holsters - This mod is quite janky at times and I will probably leave it disabled by default next release
-- Have a weapon in your hand. Move it over a holster sphere, feel light buzz on the controller.
-- Hold Favorites button until bigger buzz, now the weapon is assigned to that holster.
-- Now you can pick up the weapon from holster with Grip Or A button.aka "Use" button, same that opens doors. Same button to put the weapon pack to holster
-- To remove/empty weapon from holster, hold Favorites button with empty hands over the holster sphere until a big buzz informs that holster is empty and ready for a different weapon
-  
 ## **Updating to New Version**
 
 - With the exception of major version upgrades like 2.0, I will never break a save intentionally
@@ -126,7 +118,6 @@ Virtual Holsters - This mod is quite janky at times and I will probably leave it
   
 ## **Known Issues**
 
-- Virtual Chem and Holster are quite unreliable, will disable/remove from next release
 - VR Weapon Overhaul has done a ton of calibration on weapons, scopes and sights but not every single combination is going to be perfect for every user.  Use the Westtek Scope created by the author for most accurate scopes, or use a weapon that works better for you    
 - Balance of weapon and armor distribution will likely need more work, your feedback is welcome!
 - DLC weapon and armor replacer need more work, for the first release I focused on vanilla contents  
