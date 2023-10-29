@@ -21,7 +21,7 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/hitmantb/fo4vrmto/main/logo.webp",
       "readme": "https://www.nexusmods.com/fallout4/mods/71281",
-      "download": "https://authored-files.wabbajack.org/Fallout%204%20VR%20-%20Modern%20Tactical%20Overhaul.wabbajack_19a174b0-c7d5-4126-80be-c35a2107462f",
+      "download": "https://authored-files.wabbajack.org/Fallout%204%20VR%20-%20Modern%20Tactical%20Overhaul.wabbajack_7290cfd1-6935-4590-95ec-5e2a7967c1d6",
       "machineURL": "fo4vrmto",
       "discordURL": "https://discord.gg/RwZvZG6qf3"
     },
@@ -34,6 +34,6 @@
       "NumberOfInstalledFiles": 16488,
       "SizeOfInstalledFiles": 103644182542
     },
-    "version": "1.22"
+    "version": "1.30"
   }
 ]
