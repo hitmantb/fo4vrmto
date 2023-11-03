@@ -47,7 +47,7 @@ DLC from regular Fallout 4 is required.  There are just too many mods that requi
 -Nvidia users should start with VR Performance Kit FSR Balanced + DLAA for the best combination of visuals and performance today, and switch to FSR quality + DLAA or even CAS + DLAA if they have headroom
 -AMD users should stay with CAS + TAA, and reduce resolution for FPS instead.  Without DLAA, FSR can have too much shimmering
 -16 - 24GB VRAM users can consider replace the major texture packs like Luxor with 4K version if they have VRAM head room
--Oculus and Virtual Desktop both have spacewarp frame generation, G2/Index have reprojection, they effectively double your FPS and should generally be enabled unless you have a 4080 or 409
+-Oculus and Virtual Desktop both have spacewarp frame generation, G2/Index have reprojection, they effectively double your FPS and should generally be enabled unless you have a 4080 or 4090
   
 ## **Gameplay Notes**
 
