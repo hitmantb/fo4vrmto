@@ -1,6 +1,6 @@
 Fallout 4 VR Modern Tactical Overhaul
 
-Nexus Download: https://www.nexusmods.com/fallout4/mods/71281
+Get the best Mod Packs from AAA PCVR Discord: https://discord.gg/RwZvZG6qf3
 
 Best way to show your appreciation is to endorse on Nexus and post images/videos of this mod list on Reddit/Youtube.  
 
